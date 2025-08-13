@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Welcome"
-run/main_scene="uid://bsw67bk2vsqdp"
+run/main_scene="uid://d2pw1mf5luh5k"
 config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://icon.svg"
 
